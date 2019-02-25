@@ -1,0 +1,18 @@
+.dockerImages-ul {
+  border-radius: 4px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(204, 204, 204);
+  border-image: initial;
+  padding: 8px 0px;
+}
+
+.dockerImages-container {
+  padding: 8px 12px;
+}
+
+dockerImages-li {
+  padding: 12px;
+  list-style: none;
+  border-bottom: 1px solid rgb(204, 204, 204);
+}
